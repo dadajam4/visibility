@@ -1,0 +1,2 @@
+# visibility
+Detect document visibility.
